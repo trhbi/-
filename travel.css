@@ -1,0 +1,216 @@
+body{
+  width:320px;
+  text-align:center;
+  margin-left:auto;margin-right:auto;
+  text-align:left;
+}
+
+.header{
+ height: 30px;
+ background-color:#0099BB;
+ color:yellow;
+ text-align:center;
+}
+
+.main-up-right{
+  font-size:13px;
+}
+
+.main{
+  text-align: center;
+}
+
+.contents{
+  text-align: center;
+}
+
+.box0:hover{
+    opacity: 1.0;
+}
+
+.box0{
+  float:left;
+  padding: 5px 24px;
+  color: yellow;
+  opacity: 0.7;
+  border-radius: 4px;
+  background-color:#0099BB;
+}
+
+.migi0 {
+    float:right;
+    font-size:10px;
+    background-color:#ddd;
+    float:right;
+}
+.box1:hover{
+    opacity: 1.0;
+}
+
+.box1{
+  float:left;
+  padding: 5px 24px;
+  color: yellow;
+  opacity: 0.7;
+  border-radius: 4px;
+  background-color: #0099BB;
+}
+
+.migi1 {
+    float:right;
+    font-size:10px;
+    background-color:#ddd;
+    float:right;
+}
+.box2:hover{
+    opacity: 1.0;
+}
+
+.box2{
+  float:left;
+  padding: 5px 24px;
+  color: yellow;
+  opacity: 0.7;
+  border-radius: 4px;
+  background-color: #0099BB;
+}
+
+.migi2 {
+    float:right;
+    font-size:10px;
+    background-color:#ddd;
+    float:right;
+}
+.box3:hover{
+    opacity: 1.0;
+}
+
+.box3{
+  float:left;
+  padding: 5px 24px;
+  color: yellow;
+  opacity: 0.7;
+  border-radius: 4px;
+  background-color: #0099BB;
+}
+
+.migi3 {
+    float:right;
+    font-size:10px;
+    background-color:#ddd;
+    float:right;
+}
+.box4:hover{
+    opacity: 1.0;
+}
+
+.box4{
+  float:left;
+  padding: 5px 24px;
+  color: yellow;
+  opacity: 0.7;
+  border-radius: 4px;
+  background-color: #0099BB;
+}
+
+.migi4 {
+    float:right;
+    font-size:10px;
+    background-color:#ddd;
+    float:right;
+}
+.box5:hover{
+    opacity: 1.0;
+}
+
+.box5{
+  float:left;
+  padding: 5px 24px;
+  color: yellow;
+  opacity: 0.7;
+  border-radius: 4px;
+  background-color: #0099BB;
+}
+
+.migi5 {
+    float:right;
+    font-size:10px;
+    background-color:#ddd;
+    float:right;
+}
+.box6:hover{
+    opacity: 1.0;
+}
+
+.box6{
+  float:left;
+  padding: 5px 24px;
+  color: yellow;
+  opacity: 0.7;
+  border-radius: 4px;
+  background-color: #0099BB;
+}
+
+.migi6 {
+    float:right;
+    font-size:10px;
+    background-color:#ddd;
+    float:right;
+}
+.box7:hover{
+    opacity: 1.0;
+}
+
+.box7{
+  float:left;
+  padding: 5px 24px;
+  color: yellow;
+  opacity: 0.7;
+  border-radius: 4px;
+  background-color: #0099BB;
+}
+
+.migi7 {
+    float:right;
+    font-size:10px;
+    background-color:#ddd;
+    float:right;
+}
+.box8:hover{
+    opacity: 1.0;
+}
+
+.box8{
+  float:left;
+  padding: 5px 24px;
+  color: yellow;
+  opacity: 0.7;
+  border-radius: 4px;
+  background-color: #0099BB;
+}
+
+.migi8 {
+    float:right;
+    font-size:10px;
+    background-color:#ddd;
+    float:right;
+}
+.box9:hover{
+    opacity: 1.0;
+}
+
+.box9{
+  float:left;
+  padding: 5px 24px;
+  color: yellow;
+  opacity: 0.7;
+  border-radius: 4px;
+  background-color: #0099BB;
+}
+
+.migi9 {
+    float:right;
+    font-size:10px;
+    background-color:#ddd;
+    float:right;
+}
